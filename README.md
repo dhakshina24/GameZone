@@ -1,1 +1,1 @@
-Memory game created using JavaScript
+Games created using JavaScript.
